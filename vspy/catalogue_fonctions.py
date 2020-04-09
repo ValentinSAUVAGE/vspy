@@ -5,7 +5,7 @@
 
 # Ce programme compile plein de fonctions 
 # Constantes à importer
-import VSAUVAGE.catalogue_constantes as cc
+import vspy.catalogue_constantes as cc
 import numpy as np
 import warnings
 warnings.filterwarnings("ignore")

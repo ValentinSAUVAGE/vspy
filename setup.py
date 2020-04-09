@@ -12,6 +12,6 @@ setup(
     author='Valentin SAUVAGE',
     description='Bibliothèque Python pour le développement',
     url='https://valentinsauvage.fr',
-    download_url='https://github.com/sergeLabo/pymultilame',
+    download_url='https://github.com/ValentinSAUVAGE/vspy.git',
     license='GPL Version 3',
     long_description=open('README.md').read()

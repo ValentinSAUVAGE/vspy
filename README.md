@@ -1,2 +1,0 @@
-# vspy
-Bibliothèque Python
